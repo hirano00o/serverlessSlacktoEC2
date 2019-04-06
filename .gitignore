@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# boto3
+bin/
+boto*/
+*dateutil*/
+doc*/
+jmes*/
+s3transfer*/
+six*/
+urllib*/
+six.py
