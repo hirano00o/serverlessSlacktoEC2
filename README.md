@@ -8,6 +8,7 @@ Slack(1) <-> Amazon API Gateway(2) <-> AWS Lambda(3) <-> AWS Lambda(4) <-> Amazo
 5. It is called the EC2 instance start or stop command.
 
 This repo works on AWS Lambda(3).
+AWS Lambda(4) is [here](https://github.com/hirano00o/serverlessLambdatoEC2).
 
 ## usage
 
